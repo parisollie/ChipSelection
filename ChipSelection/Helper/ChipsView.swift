@@ -1,10 +1,3 @@
-//
-//  ChipsView.swift
-//  ChipSelection
-//
-//  Created by Balaji Venkatesh on 10/03/25.
-//
-
 import SwiftUI
 
 struct ChipsView<Content: View, Tag: Equatable>: View where Tag: Hashable {

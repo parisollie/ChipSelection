@@ -1,4 +1,4 @@
-# Chop Selection
+# Chip Selection
 
 A new iOS project.
 
